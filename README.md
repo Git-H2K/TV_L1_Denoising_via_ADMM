@@ -10,4 +10,4 @@ main :Test your images
 
 TV_L1_ADMM : ADMM algorithm
 
-TV_L1_DENOISING : Description about ADMM
+TV_L1_DENOISING : Description about the algorithm
