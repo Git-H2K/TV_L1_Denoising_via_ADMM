@@ -1,6 +1,6 @@
 # TV-L1 Denoising via ADMM
-ALTERNATING DIRECTION ALGORITHMS FOR L1-PROBLEMS IN COMPRESSIVE SENSING
-http://www.caam.rice.edu/~zhang/reports/tr0937.pdf
+ALTERNATING DIRECTION ALGORITHMS FOR TOTAL VARIATION DECONVOLUTION IN IMAGE RECONSTRUCTION
+https://sites.fas.harvard.edu/~cs278/papers/adm.pdf
 
 # Coding Environment
 Matlab R2016b.
