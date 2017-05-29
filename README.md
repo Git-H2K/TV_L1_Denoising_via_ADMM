@@ -1,6 +1,6 @@
 # TV-L1 Denoising via ADMM
-ALTERNATING DIRECTION ALGORITHMS FOR TOTAL VARIATION DECONVOLUTION IN IMAGE RECONSTRUCTION
-https://sites.fas.harvard.edu/~cs278/papers/adm.pdf
+"An Alternating Direction Method for Total Variation Denoising",arxiv,2014
+https://arxiv.org/pdf/1108.1587.pdf
 
 # Coding Environment
 Matlab R2016b.
